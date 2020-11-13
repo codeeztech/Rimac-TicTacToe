@@ -2,10 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
 
-## Node JS radis DB server
+## Node JS server
 
 Go to the directory of backend folder then
-Run `node server` for running backend server. Navigate to `http://localhost:4000/`.
+Run `node server` for running backend server. Navigate to `http://localhost:3000/`.
 
 
 ## Development server
